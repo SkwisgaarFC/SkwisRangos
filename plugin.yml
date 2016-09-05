@@ -1,0 +1,13 @@
+name: SkwisRangos
+version: 1.0
+author: SkwisgaarFC
+website: http://www.mineklok.com
+
+main: io.github.SkwisgaarFC.SkwisRangos
+depend: [Vault, PermissionsEx]
+
+commands:
+  subirderango:
+    description: Allows you to purchase a rank promote.
+    aliases: [promoterank, rankpromote]
+    usage: wrong

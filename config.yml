@@ -1,0 +1,13 @@
+commands:
+  playerpromote: subirderango
+messages:
+  playerpromote: You've been promoted!
+  commandfromconsole: The console can't be promoted!
+  notenoughmoney: YOU'RE POOR!!!
+  rankpurchased: 'Now your rank is '
+  errorpromote: You couldn't have been promoted. Contact the admin
+ranks:
+  list:
+    Newfag: 25000.0
+    Usuario: 100000.0
+    Elite: 500000.0
